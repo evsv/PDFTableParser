@@ -1,0 +1,24 @@
+-----------------------BEGIN PARSING-----------------------
+
+Began parsing PDFs at: 2017-05-10 01:13:23.062000
+
+The following PDFS were found in the input folder:
+BasaveshwarNagar.pdf
+Yeshwanthpura.pdf
+
+-----------------------------------------------------------
+
+Parsing file: BasaveshwarNagar.pdf
+Number of pages found: 205
+Completed parsing file: BasaveshwarNagar.pdf
+Time taken to parse file: 12.722116665
+
+-----------------------------------------------------------
+
+Parsing file: Yeshwanthpura.pdf
+Number of pages found: 225
+Completed parsing file: Yeshwanthpura.pdf
+Time taken to parse file: 14.4622333328
+
+-----------------------------------------------------------
+
